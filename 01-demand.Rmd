@@ -1,0 +1,199 @@
+# Chapter 1: Demand
+
+## Aggregate demand
+This chapter builds the model of aggregate demand. Aggregate demand is made up of household or consumer spending, business investment, government spending and net exports.  It is about the spending decisions of households, firms and government. These decisions are complex but we will try to simplify by using models.  The models will attempt to capture the *essence* or most important features of the process.  These decisions involve static and inter-temporal choice. That means making decisions about spending and saving now based on current conditions and expectations about the future.  Government policy can influence aggregate demand: interest rates can affect spending decisions of households and investment decisions of firms; taxation can change incentives and government spending directly influences demand. People in other countries influence overall demand with purchase and production of goods and services. Figure 1.0 show the evolution of the components of UK demand over time. 
+
+![GDP Components [@carlinsoskice]](./Figures/Demand/components.jpg)
+
+The relative importance of these components can change over time and can change between countries.  Household spending or consumption is always the most important element of GDP.  However, while consumption makes up 70% of GDP in the US, it is only 43% of the Chinese economy. An exceptionally high proportion of GDP in China comes from investment spending. This is a result of China's drive to increase the amount and quality of capital in the economy.  
+
+The national accounts can be determined in three ways.  This is an **identity**, meaning that it must be the same by definition, and shown by 
+
+1. Expenditure: all the spending in the economy
+
+$$y \equiv C + I + G + (X - M)$$
+
+There are tricky decisions about which category some things should put into.  Purchase of a new house would fall into investment. Government transfers (benefits, pensions etc) are recorded as consumption when spent. 
+
+2. Output: all the goods and services produced by the economy
+ 
+$$y \equiv \text{value of output sold - cost of raw materials and intermediate goods}$$
+
+How do you measure the output of the health service?  
+
+3. Income
+$$y \equiv \text{wages and capital}$$
+
+The major part of this is wages.  Capital is divided into interest, profits and dividends
+
+As you can see from Figure 1.0, Investment is much more volatile than consumption or government spending. Investment is pro-cyclical. That means that it does well when the economy is doing well and does badly when the economy is weak. Business investment is therefore a key driver of the business cycle. As the fluctuation becomes more extreme we get what is called **a recession**. In the US, the NBER makes the official definition of recessions.  There is a popular notion that a recession is defined as two quarters of negative growth.  However, not all recessions have negative growth so it is more of a *rule of thumb* than a strict rule.
+
+The NBER reported on the 8 June 2020 that the US entered a recession in February 2020.  This was the quickest announcement ever made. 
+
+>On June 8, the NBER Business Cycle Dating Committee (BCDC) officially announced that the peak of the U.S. recession was reached in February 2020. Some previous Econbrowser posts already suggested that February was indeed the end of the longest economic expansion in history (128 months), see for example here and here.
+
+You can read more about this on the [Econbrowser blog](http://econbrowser.com/archives/2020/06/guest-contribution-a-severe-us-recession)
+
+It you read that article, you will see that the current recession and what is called **The Global Financial Crisis (GFC)** of 2007-08, are the two largest recessions on record.  These come after a period that was called **The Great Moderation** due to the relative stability of the economies of developed nations.  You can see this from Figure 1.2. 
+
+
+![The Great Moderation [@carlinsoskice]](./Figures/Demand/gtmoderation.jpg)
+
+The Great Moderation proceeded the **Global Financial Crisis (GFC)**.  We will discuss in the future how these two events may have been related. 
+
+There are of course many questions raised about the use of GDP as a measure of welfare.  
+
+ 
+## The three-equation model
+Aggregate demand is the first part of the three-equation model that is presented by [@carlinsoskice]. The model represents the three key elements of the complex macro world. The first represents demand, the second supply and the third policy and the Phillips Curve.  Aggregate demand is represented by the IS curve and refers to the combination of planned investment and savings decisions that are consistent with equilibrium in the market for goods and services. Models are important for providing a framework for thinking about complex problems. The IS framework summarises the way that changes in spending decisions of households, firms and government multiply through the economy with their effect on output, spending and income. In response to an initial increase in spending, output will rise until the amount that households want to save is equal to the investment intentions of firms.  
+
+![The Keynesian Cross [@carlinsoskice]](./Figures/Demand/Kcross.jpg)
+
+Figure 1.3 shows the **Keynesian Cross**. This is the source of the IS curve.  The 45 degree line represents equilibrium as it is where output is equal to planned spending.  If spending and output are not equal, there is either excess demand or demand is too low.  In either of these cases firms will take action to return output to the level of planned spending by increasing or decreasing the amount that they produce.  If demand is too low, as it has been during the outbreak of Corvid-19, firms will cut output by curtailing overtime and hours worked or even making people redundant.  This has secondary effects as people with lower income now spend less.  The economy circulates downwards until output and demand are equal again. 
+
+Insert some Keynesian Crost
+ Exercises here. Maybe the shiny app. 
+
+The level of aggregate demand is affected by current income and expectations about the future, credit constraints, interest rates and many other factors. Expectations about the future are important for household spending and for business investment.  Households will consider their future income, firms will try to assess the demand for their product.  Households and firms form expectations in the face of uncertainty. They are not sure what their income will be or the level of demand for their product.  There are also credit constraints because banks have difficulties in assessing the credit quality of firms and households. This means that borrowing by households and small business is often restricted. This makes it difficult for households and firms to borrow, even if they are very sure about their future income. Credit constraints are felt particularly by those without collateral. 
+
+The IS curve shows the relationship between interest rates and aggregate demand.  It is downward sloping, suggesting that lower interest rates lead to higher aggregate demand.  This is somewhat controversial.  Interest rates are believed to affect household spending (through mortgage, house purchase and the purchase of furnishings as well as making savings more attractive.  Interest rates also affect the feasibility of investment project for firms. Lower interest rates make it cheaper to borrow and (for those with some knowledge of finance) increase the value of future projects by discounting the future at a lower rate. 
+
+The IS curve shows the combination of interest rates and output for which aggregate spending is equal to output.  This is downward sloping as high interest rates constrain spending by households and firms and therefore GDP is low enough that output is equal to this demand. When interest rates are low investment and household spending are high and GDP should also be higher. To show how changes in profit or income expectations can affect the economy, we need to shift the IS curve: more pessimism will shift the IS curve inwards meaning lower business investment at each level of interest rates. Government spending will also shift the IS curve. This could be used to counteract the increased pessimism. There is much debate over the effect of government spending on overall output. A key question in macroeconomics is, What is the size of the 'multiplier'?  
+
+![The IS curve](./Figures/Demand/IS.jpg)
+
+The IS curve will be built on the basis of consumption demand, investment demand and demand from government purchase. For now we have a **closed economy** with no traded with the rest of the world. 
+
+Aggregate demand is given by 
+
+$$y^D = C + I + G$$
+
+All variables are in real terms or constant price. Equilibrium requires that planned spending (aggregate demand) is equal to output. 
+
+$$y^D = y$$
+
+Consumption is a linear function of disposable (after-tax) income
+
+$$C = c_0 + c(y = T)$$
+
+Where T is tax net of transfers. 
+
+To get the consumption function, we assume that taxes are a fixed proportion of income so that $T = ty$ and $0 < t < 1$. Now, 
+
+$$C = c_0 + c_1(1 - t)y$$
+
+This is the Keynesian consumption function. $c_0$ is autonomous consumption and the rest shows that household spending is a fixed proportion of disposable income and $c_1$ is the marginal propensity to consume. 
+
+$$MPC = \frac{\Delta C}{\Delta y^dis} = c_1$$
+
+Where $y^dis = (1 - t)y$
+
+In this model of consumption (or **consumption function**), saving is $S = y - C$ and adds to household assets. Income is the amount that can be consumed without depleting assets. The marginal propensity to save is $s_1$.  Therefore, $s_1 + c_1 = 1$. 
+
+### The multiplier 
+If the consumption function is substituted into the equation for aggregate demand, it is possible to get the relationship between aggregate demand and output. 
+
+$$y^D = c_0 + c_1(1-t)y + I + G$$
+
+
+In aggregate demand, output space, this line and the 45 degree line for equilibrium can be drawn. The working of the model can be demonstrated by disturbing the equilibrium by (say) an increase in government spending. This will shift the AD line parallel to the original. Output will increase to meet demand (as inventory systems indicate that there is a shortfall), raising income and demand with second round effects. It is possible to find the find equilibrium in terms of exogenous variables by substituting output $(y)$ into aggregate demand $(y^D)$. 
+
+$$y - c_0 + c_1(1 - t)y + I + G$$
+
+$$y - c_1(1 - t)y = c_0 + I + G$$
+
+$$y = \frac{1}{1 - c_1(1 - t)} (c_0 + I + G)$$
+
+This the multiplier and autonomous demand. As $c_1$ and t are between 0 and 1, this means that the multiplier must be greater than one. This is the short-run multiplier where interest rates and all other policy responses do not change. If the mpc is zero, there is no multiplier.
+
+It can be shown that the sum of a geometric progression is given by 
+
+$$\Delta y = \frac{1}{1 - c_1(1 - t)} \Delta G = kG $$
+
+With k as the multiplier. 
+
+<!-- The paradox of thrift says that saving in a recession will not be beneficial overall. It is possible to model the effect of a proposal to encourage savings during a recession by reducing $c_0$ to $c_0^'$.  Aggregate demand will fall by the difference between the two and the multiplier process will work in a downward direction. Indeed, the attempt to increase savings will not be successful.   -->
+
+$$\Delta S = \left [ (1 - c_1(1 - t)) \frac{1}{1 - c_1(1 - t)} \Delta c_1 \right ] - \Delta c_1 = 0$$
+
+The paradox of thrift is that if the increase in savings is not met by an increase in investment, there will be no overall increase in savings in the economy. Using this model, it is clear that encouraging savings is not a good idea. There is no mechanism in this model whereby higher savings are translated into higher investment. 
+
+## The IS curve 
+The IS curve is used to represent the demand side of the economy. Lower interest rates encourage more demand.  This is controversial because expectations are very important for business investment.  In an environment where the economy is in recession, pessimistic expectations may be much more important than the level of interest rates.   If business cannot currently sell their product and don't expect to be able to in the future, low interest rates are not likely to encourage investment. 
+
+It is assumed that aggregate demand is influenced by the real interest rate. 
+
+$$r = i - \pi^E$$
+
+The real rate is the nominal rate adjusted for inflation expectations. The real rate is the one that is used in the IS curve. When the central bank sets its interest rate it changes the nominal rate to obtain a particular real rate that it believes will affect the economy. For now we assume that there is just one interest rate in the economy. For now consumption is independent of interest rates. Therefore, interest rates work through the effect on investment spending, including the purchase of new houses. Up to now we assume that investment is set by expected future profits, which are exogenous. Now the investment function is 
+
+$$i = a_0 - a_1r$$
+
+$a_0$ and $a_1$ are constants with $a_1$ less than 1. Expected future profits are captured by $a_0$. Now substitute this investment function into the IS curve
+
+$$y = \frac{1}{1 - c_1(1 - t)}[c_0 + a_0 - a_1r + G]$$
+
+$$= k[c_0 + (a_0 - a_1r) - ka_1r$$
+ 
+
+$$ = A - ar$$
+
+Where $A = k(c_0 + a_0 + G)$ and $a \equiv ka_1$. This highlight the fact that for a given interest rate, equilibrium is determined by the multiplier of autonomous spending elements.  A higher multiplier or a more sensitive response from investment interest rate changes, the more effect interest rates will have on output. 
+
+The IS curve is downward sloping because at high rates investment intentions are low and these intentions increase as interest rates fall. The IS curve is flatter than the investment curve.  Changes in autonomous consumption, government or investment shift the IS curve in a parallel fashion.  Change in the power of the multiplier will change the slope of the IS curve.  It will become flatter as the multiplier becomes stronger. A change in interest rate sensitivity will also affect the slope of the demand curve. 
+
+![IS curve](./Figures/Demand/IS2.jpg)
+
+## Permanent Income Hypothesis
+Expectations are important.  There is an intertemporal element to household spending and business investment. Households will adjust their spending to expected future income. Business make investment decisions based on expectations about future demand for products and input costs. For example, expectations about future Chinese demand will be important. Borrowing against future income is called *consumption smoothing*. People would like to smooth their consumption over time.  
+
+You can return to the [CORE Textbook](https://core-econ.org/the-economy/book/text/10.html#104-borrowing-allows-smoothing-by-bringing-consumption-to-the-present) to revise the information about the borrowing, lending and consumption smoothing.  
+
+It is possible to calculate the expected present value of future household income.  If we assume that people live for ever, this can be the present value of wealth. 
+
+$$\Psi_t^E = (1 + r)A_{t - 1} + \sum_{i = 0}^\infty \frac{l}{(1 + r)^i} y_{t - i}^E$$
+
+Where i is the post-tax lifetime labour income and A are the assets at the beginning of the process. 
+
+Household consumption has to take account of the smoothing of consumption over periods when income may rise and fall due to expected and unexpected outcomes. The smoothing of consumption is based on the diminishing marginal utility of consumption. The Permanent Income Hypothesis (PIH) suggests that individuals optimally allocate their consumption over their lifetime. The resources used for this include assets and future income. This comes from Modigliani and Brmberg (1954) and Friedman (1957). There is a review of Frideman in Meghir (2004). Figure 1.7 shows how income and consumption change over the time in a simplified model. The government can also play a part in this process by providing benefits and social insurance. 
+
+![Permanent Income Hypothesis](./Figures/Demand/lifecycle.jpg)
+
+This model of consumption is different from the Keynesian version where the future is not explicitly considered. The question of whether individuals would like constant consumption or gradually rising or falling consumption will depend on the rate of interest and the rate at which individual trade assess the benefit of consumption now relative to consumption in the future. This is represented by $/rho$ which is a measure of impatience. The household chooses a part of consumption to maximise lifetime utility subject to the budget constraint. 
+
+$$\Psi_t^E = (1 + r)A_{t-1} + \sum_{i - 0}^\infty \frac{l}{(1 + r)^i} y_{t-1}^E$$
+
+This can be simplified to a choice about consumption in the current period and consumption in the future.  This can be represented by the Euler equation. 
+
+$$C_t = \frac{1 + \rho}{1 + r}C_{t + 1}^E$$
+
+if the interest rate $(r)$ and the subjective discount rate $(\rho)$ are the same, the benefit from savings will be equal to the gains from saving and consumption will be constant so that $C_1 = c_{t + 1}^E$.  If the discount rate is above the interest rate $C_t > C_{t +1}^E$ so that consumption is falling overtime and if the discount rate is lower $C_t < C_{t + 1}^E$ so that consumption is declining over time.  It is easiest to focus on cases where the subjective discount rate is equal to the interest rate. The PIH consumption function is 
+
+$$C_t = \frac{r}{1 + r} \Psi_i^T$$
+
+This is the annuity value of the expected lifetime wealth (derived in the appendix).  This remains constant unless expected wealth changes. 
+
+The predictions of the PIH area that expected changes in income or wealth should have no major effect on consumption but unexpected changes should be important. The sensitivity of consumption to income will be a test of the theory. This is in contrast to the Keynesian consumption function. A temporary increase in income will have a modest effect because it will be spread over the entire future.  It will raise consumption by just $\frac{r}{1 + r}$ of the change.  If the interest rate is 4\%, the MPC is just 3.8\% and the multiplier in this case is just above 1. 
+
+There are two prediction of PIH that do not seem to found fully in practice: 
+
+1. That people will borrow to smooth consumption if they are expecting earnings to increase in the future. In reality, earnings seem to be excessively sensitive to income.  Spending does not seem to increase until income actually increases, even in cases when an increase in income can be strongly expected. 
+
+2. That people will anticipate retirement and will reduce their spending before they get to that date.  However, spending seems to more sensitive to actual retirement that would be forecast from this model. This is quite surprising as it relies on saving rather than borrowing and therefore is not affected by credit constraints.  
+
+![Excess sensitivity](./Figures/Demand/lifecycle2.jpg)
+
+![Excess response](./Figures/Demand/lifecycle3.jpg)
+
+There is debate about the power of the multiplier.  The more powerful the multiplier, the less the government will have to do to bolster the economy during a recession; the more powerful the multiplier, the more counter-productive **austerity** will be.  There are a number of empirical studies that have been carried out.  [@campbellmankiw] tested the sensitivity of consumption and income from G7 countries.  They found that consumption is sensitive to income,.  It rejected PIH. [@johnsonparkersouleles] found that the average US household spent 20\% to 40\% of the temporary (one-off) tax cut within three months of it being received, rather than when the programme was announced.  Random social security numbers were used to distribute gains. Households with low income responded most suggesting that credit constraints are important.
+ Deaton (1992) and Pistaferri (2010) have discussions of excess sensitivity and smoothing hypothesis. Spending falls with retirement but this could be because there is a cut back in job-related spending (Jappelli and Pisaferri (2010). There is ample evidence that people are more impatient (higher discount rates) that the PIH would suggest. It is likely that households find it hard to determine whether a change in income is permanent or temporary.  
+
+There are three major reasons why PIH does not hold: credit constraints; impatience; uncertainty about future income and whether it is permanent. If there are credit constraints people will be unable to bring forward spending when they know that income will rise.  Collateral constraints are important here. Estimates find that about 20% of US households are credit constrained [@Japelli] and [@Mariger]. Households also do not save as much as they should according to the PIH. Preferences are not consistent: people want to save next week (quarter, year) but not now. 
+
+Aron et al (2012) estimate consumption functions for UK, US and Japan. Consumption is expected to respond more to current income that PIH would suggest. Uncertainty (measured by the change in the unemployment rate) is expected to reduce increase precautionary savings.  Rising house prices may reduce credit constraints in those countries where it is possible to borrow against a house.  This is not the case in France, Germany, Japan and China.  In those cases, rising house prices may reduce consumption as it becomes more expensive to purchase a property. The current real interest rate may be important. The increase in the household wealth to income ratio is expected to be important. For the UK and US it appears that half of the change in consumption is explained by permanent income model. Current income as an important positive effect and real interest rates have an important negative effect. Wealth is important but cash is more spendable than pension savings. Credit access: a debt of \$100 reduces spending more than a \$100 increase in equity or pension wealth increases spending. 
+
+## The power of the multiplier
+The more powerful the multiplier the flatter the IS curve and the more effect autonomous elements have.  The size of the multiplier has gained more interest in the wake of the global financial crisis.  It appears that it depends on financial and institutional conditions. The PIH suggests that the power of the multiplier will depend on the permanency of the income shock. This hypothesis says that the marginal propensity to consume out of unexpected, temporary income shocks is close to the value of the interest rate $\frac{r}{1 + r}$. However, this will increase with permanent shocks and credit constraints and impatience will also tend to increase the power of income to multiply through the economy. The slope of the IS curve is also affected by the interest-rate sensitivity of investment and consumption. There seems to be a negative relationship between interest rates and consumption in countries with developed financial systems like the US and UK but a positive relationship in Japan where may people have large, interest rate sensitive cash holdings. 
+
+Changes in wealth also change consumption, an increase in uncertainty (particularly if associated with unemployment) may raise precautionary savings and reduce consumption; house prices may remove credit constraints and shift the IS curve to the right or could mean that more savings are required to purchase a house and shift it to the left. Changes in financial system (deregulation or development can have positive and negative effects). 
+

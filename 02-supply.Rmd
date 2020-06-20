@@ -1,0 +1,86 @@
+# Chapter 2: Supply
+Supply is about firm decisions concerning the level of output, employment as well as wages and prices.  The labour market does not appear to work like a traditional market that are determined by supply and demand. Unemployment is characteristic of a capitalist economy.  Unemployment varies from country to country and across time. Workers are willing to work at the prevailing wage rate but cannot find a job.  Across the world this is happening but the supply-demand model suggests that the wage will fall to clear the market.  The unemployed are not people content to be without a job.  [@clarkoswald] found that unemployed workers have twice the amount of mental distress as the employed. 
+
+## Why do labour markets not clear? 
+The three equation model uses an **efficiency wage** model for the labour market [@carlinsoskice].  This allows us to explain unemployment and the failure of wages to clear the labour market. The horizontal gap between the point on the wage-setting curve that satisfies the question what is the appropriate wage to secure worker effort and the point on the labour supply curve that answers the question, how much work is offered at this rate.  The gap between the labour force (those able and willing to work between the ages of 16 and 65) and those employed is involuntary unemployment.   
+
+![Efficiency Wage model [@carlinsoskice]](./Supply/Figure/labourmarket.jpg]
+
+The efficiency wage idea was first proposed by [@shapirostiglitz] in a paper called *Equilbrium Unemployment as a Worker Discipline Device*.
+
+The model for the supply side of the economy is also based on monopolistic-competition where firms have market power to set prices. There can be changes in the level of competition based on the number of firms in an industry.  The greater the market power, the more firms are able to increase their mark-up or profit margins. 
+
+It is assumed that wages and prices are not adjusting continuously but are changed one a year.  [@barattieri] analysed wage setting in the US and found that wages were very sticky. A simple model would suggest that wages are set once a year. This does not appear to change much across different industries. [@campbellkamlani] surveyed 184 firms and found that most firms were reluctant to cut wages in a recession.  Firms felt that they would lose their best workers. Firms also thought that it would damage moral and reduce effort. [@bewley] review literature on wage rigidity and fairness and found that wage cuts were only perceived as being fair if they saved a large number of jobs.  Rigidities in price setting varies by industry. 
+
+Nominal wages do not adjust immediately to fluctuations in aggregate demand. Economic agents set wages and prices with a target real value that requires some assumption about future inflation. For the model, wages are set once a year during the *wage round* and prices are adjusted after that. Therefore, wages and prices adjust to aggregate demand with a lag. In this case a positive demand shock will lead to higher employment, lower unemployment and an increase in wages (as a move up the WS curve). Firms respond with an increase in prices.  We assume that the mark-up or profit-margin is unchanged. All firms in the industry increase wages. 
+
+## Changes in equilibrium unemployment. 
+Equilibrium unemployment will rise if the WS curve shifts upwards or the PS curve moves downwards. 
+1. An increase in unemployment benefits would shift the WS curve upwards. There is a trade off between the effect that an increase in benefits has on reducing the cost of job losses and the need to shift to a lower point on that wage setting curve to ensure productive output.  This is achieved with a higher level of unemployment. 
+2. Higher mark-ups as a result of lower competition. The PS curve is reduced and a higher share goes to profits. There is less employment and lower real wages.  This may be something to consider with recent examples. With the higher cost of job loss the real wage is lower. 
+
+Policies that shift the WS or PS curves will affect the level of equilibrium unemployment. These are supply side policies. We will return to this
+
+i### Labour-supply
+The supply-side is broken down into two parts: supply-side effects on unemployment; nominal rigidities.
+
+$$W = Pe B(N, z)$$
+
+Where the wage $(W)$ is determined by the expected price level, the level of employment $(N)$ and a set of wage-push variables $(Z).$ This will include changes in benefits and the presence of unions. 
+
+Though nominal wages are set or negotiated, works are interested in the real wage. The wage-setting (WS) real-wage equation is 
+
+$$W(WS) = W/Pe = B(N, Z)$$
+
+The opportunity cost of taking a job is dependent on two factors:  benefits and the disutility of working. The wage is above the opportunity cost of working and increases as the unemployment rate falls. The WS curve is non-linear: as involuntary unemployment approaches zero, the opportunity cost losing employment falls towards zero and the wage required to elicit effort approaches infinity; as the wage approaches the opportunity cost of working, the supply of labour tends towards zero. There are a number of enhancements that can be applied, including adding monopoly unions.  Changes in institutions can affect the WS curve and the equilibrium level of unemployment. 
+
+### Labour-demand
+In a competitive market the firm sets prices and the quantity of labour required with reference to the marginal product of labour. In this case $P = MC and W/P = MPL$.  However, once there is market power, firms facing a downward-sloping demand curve will produce to maximise profits. The mark-up on marginal cost will be depend on the elasticity of demand. As elasticity rises the mark-up will fall. A horizontal PS curve is usually employed. If firms set prices according to a mark-up over costs.  Now the fixed output per worker is split between profit per worker and the real wage per worker. The real wage is constant and PS flat. Now price setting is the marking-up of unit labour costs by a fixed percentage $(\mu)$. 
+
+Therefore, 
+
+$$P = (1 + mu)(W/lambda)$$
+
+Where $\lambda$ is output per worker $(y/N)$. 
+
+Output per worker is divided into real wages per worker and real profits per worker. 
+
+There is a divergence between the real consumption wage (based on post-tax income and excise duties prices) and the real product wage that is paid by the employers - including income tax and other taxes relative to the price that is received for product after indirect taxes are paid. The difference is the tax wedge. 
+
+![Productivity, prices and wages](./Figures/Supply/opw.jpg)
+
+The tax wedge is one of the price-push factors that may affect the PS wage. 
+
+$$W^PS = \lambda F (mu, z)$$
+
+Changes in productivity, competitive conditions and taxation can change the price-setting wage. Other price-push factors are business regulations and employment relations, Some health and safety regulations may impose costs but provide an offsetting increase in productivity.  
+
+Labour market equilibrium is at the intersection of the upward sloping WS curve and a flat or downward sloping PS curve. 
+
+$$W^ws = W^ps$$
+
+$$B(N, z_w) = \lambda F (\mu, z_p)$$
+
+## The labour market and the business cycle
+Nominal rigidities and the business cycle. Wages are set periodically and output reacts to business cycle. One explanation for this is that imperfectly-competitive firms find it more profitable to react to changes in demand by chaining output rather than prices. Price stickiness may be caused by menu-costs. Even with new technology there may be additional costs to changing prices (kinked demand curve). This model responds to costs not demand. Empirical evidence shows that most firms change prices once a year.  Alvarez et al (2005).  The reason seemed to be strategic interactions and implicit or explicit contracts. 
+
+For simplicity, it is usual to link changes in demand with changes in unemployment.  **Okun's Law** studies this empirical relationship. The relationship may be affected by labour hoarding and by movement into and out of the labour force. A 1% change in output above or below its long run trend has an effect of 0.5 percentage points on the unemployment rate.  This is different for different countries. A formalisation of the link between unemployment and inflation is the behavioural model called the Phillips curve. This can be written as 
+
+$$W^ws(y) = (W/P)^ws = B + \alpha (y_t - y_e) + z_W$$
+
+Where B is a constant that reflects unemployment and the disutility of work while Z_W is a set of cost-push factors. p.66 
+
+Page 66 shows the wage setting based on the output gap and the inflation based on the wage increase less the improvement in productivity. 
+
+## The Phillips curve
+The Phillips curve is pinned down by lagged inflation because lagged inflation is a key component of the wage inflation function. It is usualy to express the role of lagged inflation in terms of inflation expectations. The most basic model will use adaptive wage expectations. The shape of the Phillips curve in inflation-output space (fig 2.19) is determined by the lagged inflation rate which fixes the hight of the Phillips curve and the slope of the WS curve that determines the slope of the Phillips curve. 
+
+This is the adaptive expectations Phillips curve. 
+
+$$\pi_t = \pi_t^E + \alpha (y_t - y_e)$$
+
+![The Phillips curve [@carlinsoskice]](./Figures/Supply/Phillips.jpg)
+
+This module can be used to discuss the effect of demand and supply shocks. The demand shock could be increased government spending like that seen in the 1960s in the US. There are a number of factors that could produce a supply shock: technology of productivity shock (lambda), shift in bargaining power (WS) or a change in competition (PS). Dutch labour market reforms that reduced the generosity of benefits, spent money on training workers and raised the labour-market bargaining managed to reduce average unemployment from 8% in the 1980s to less than 5% before the year 20000. This can be represented by a downward shift in the wage setting curve. There is now a negative gap between the wage setting and price setting. This causes workers to reduce wage demands. There is now increased competition for jobs as a result of the labour market policies and the opportunity cost of unemployment has also increased as a result of the tightening of unemployment benefits. There is deflation. 
+
+
