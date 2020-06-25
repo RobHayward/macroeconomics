@@ -4,7 +4,7 @@ Supply is about firm decisions concerning the level of output, employment as wel
 ## Why do labour markets not clear? 
 The three equation model uses an **efficiency wage** model for the labour market [@carlinsoskice].  This allows us to explain unemployment and the failure of wages to clear the labour market. The horizontal gap between the point on the wage-setting curve that satisfies the question what is the appropriate wage to secure worker effort and the point on the labour supply curve that answers the question, how much work is offered at this rate.  The gap between the labour force (those able and willing to work between the ages of 16 and 65) and those employed is involuntary unemployment.   
 
-![Efficiency Wage model [@carlinsoskice]](./Supply/Figure/labourmarket.jpg]
+![Efficiency Wage model [@carlinsoskice]](./Figures/Supply/labourmarket.jpg)
 
 The efficiency wage idea was first proposed by [@shapirostiglitz] in a paper called *Equilbrium Unemployment as a Worker Discipline Device*.
 
@@ -21,7 +21,7 @@ Equilibrium unemployment will rise if the WS curve shifts upwards or the PS curv
 
 Policies that shift the WS or PS curves will affect the level of equilibrium unemployment. These are supply side policies. We will return to this
 
-i### Labour-supply
+### Labour-supply
 The supply-side is broken down into two parts: supply-side effects on unemployment; nominal rigidities.
 
 $$W = Pe B(N, z)$$
@@ -39,7 +39,7 @@ In a competitive market the firm sets prices and the quantity of labour required
 
 Therefore, 
 
-$$P = (1 + mu)(W/lambda)$$
+$$P = (1 + \mu)(W/\lambda)$$
 
 Where $\lambda$ is output per worker $(y/N)$. 
 

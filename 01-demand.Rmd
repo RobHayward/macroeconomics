@@ -1,4 +1,4 @@
-# Chapter 1: Demand
+# Demand
 
 ## Aggregate demand
 This chapter builds the model of aggregate demand. Aggregate demand is made up of household or consumer spending, business investment, government spending and net exports.  It is about the spending decisions of households, firms and government. These decisions are complex but we will try to simplify by using models.  The models will attempt to capture the *essence* or most important features of the process.  These decisions involve static and inter-temporal choice. That means making decisions about spending and saving now based on current conditions and expectations about the future.  Government policy can influence aggregate demand: interest rates can affect spending decisions of households and investment decisions of firms; taxation can change incentives and government spending directly influences demand. People in other countries influence overall demand with purchase and production of goods and services. Figure 1.0 show the evolution of the components of UK demand over time. 
