@@ -1,0 +1,107 @@
+# Fiscal policy
+Though monetary policy is the preferred macroeconomic tool under the standard policy framework, fiscal polish is important because it can operate when monetary police is less effective (when at the lower bound for example), it can act as an automatic stabiliser. It has an influence on government deficit and the government debt. Automatic stabilisers and discretionary policy are the two ways that fiscal action can affect the economy. 
+
+Fiscal policy is also important in the microeconomic sphere. It can be used as a way to redistribute income, it can be used for resource allocation and it can be used to provide public goods. There are substantial differences in the level of redistribution that is carried out under the tax and benefit system.  The government may intervene in cases where there are market failure or to implement political choices. The government may also provide public goods. 
+
+### Short run policies
+Discretionary fiscal policy can be divided into different time frames. These can be short-run, medium-run and long-run.  This chapter is about the business cycle and the short run.  Medium-term and long-term polices are usually called **Supply-side** policies. These are discussed in the next chapter.  One major area of debate for short-term stabilising policy is the power of the multiplier.  There has been a major debate over the impact of the multiplier since the GFC.  Recall the multiplier is
+
+$$\Delta y = \frac{1}{(1 - c_1(1 - t)} \Delta g = k \Delta g$$
+
+Where c_1 is the marginal propensity to spend and t is the tax rate. As $c_1$ and t are less than one, the multiplier is always positive.  The attention is to the short-run, before monetary policy, wages and prices as well as expectations respond. The government can respond to a negative demand shock by boosting fiscal policy and using the multiplier to get the economy back to equilibrium. This may be necessary is monetary policy is constrained. The speed of the return to normal will depend on how well expectations are anchored. The economy will return to equilibrium at the same interest rate but with a higher level of government spending to offset the contraction in consumer spending. 
+
+There are circumstances where the government may try to push the economy beyond its natural limit. In that case the central bank is likely to provide an offsetting increase in interest rate to counteract that fiscal boost that would challenge the central bank inflation target. If this does not happen, driving the economy above potential will raise inflation and this will cause the government to reduce its fiscal expansion (unless there is a change in the policy function). The economy will gradually move back to equilibrium.  However, this move will happen more swiftly if expectations are formed rationally. 
+
+### Medium run policies
+The medium multipliers are different in each of these examples. The medium term multiplier ultimately depends on the model, the way that expectations are formed and the actions of the central bank. If the economy is below capacity, the government can increase output with fiscal policy and improve welfare; if the economy is at equilibrium and the central bank does not react to the government policy, the economy gradually returns to equilibrium but with higher inflation and higher public debt. 
+ 
+With the three equation model, the government is able to provide some stimulus to the economy even if increased spending is offset by an increase in taxes. In this case there is no increase in the deficit or debt. 
+
+$$y^D = c_0 + c_1(y - T) + \alpha_0 + \alpha_1r + G$$
+
+The effect of a change in government expenditure  is 
+
+$$\Delta y = \Delta G  * c_1 \Delta G + c_1 * c_1 G \dots$$
+
+The effect of a change in government tax  is 
+
+$$\Delta y = - c_1 \Delta T + c_1 * c_1 * \Delta T \dots$$
+
+Now look at the combined effect.
+
+$$\Delta G  * c_1 \Delta G + c_1 * c_1 G \dots - c_1 \Delta T + c_1 * c_1 * |Delta T \dots   $$
+
+Using the balanced budget constraint of $\Delta G = \Delta T$
+
+$$\Delta y = \Delta G$$
+
+## The power of the multiplier
+The discussion of fiscal stimulus and the austerity policies have brought the power of the multiplier back into the spotlight. Estimation is complicated by the presence of endogeneity and feedback effects.  Different econometric techniques have been used to try to deal with this problem. Some studies have attempted to find narrative of tax changes to assess the economic impact. See for example, [@RomerRomer]. [@Ramey2011] looks at 30 studies for US multipliers and finds effects of between 0.8% and 1.5%. It is very likely to be the case that the power of the multiplier depends on context and institutions. It is also likely that the multiplier changes in intensity over the course of the economic cycle. The IMF review of 28 economies found a multiplier of between 0.9 and 1.7 for countries in recession. This compares to the 0.5 that is used by the fund in its economic forecasts [@IMF2012].
+
+## Automatic stabilisers
+Automatic stabilisers are caused by the way that taxes depend on the level of income with the amount of government spending that is dependent on the economy - such as unemployment benefit. Note that unemployment benefit is a transfer and shows up in T which is taxes less transfers.  G is government spending on goods and services. A smaller multiplier is represented by a steeper IS curve (less shift for a change in autonomous spending).  As a result, the government deficit will rise when the economy is doing badly and will fall when it does well. Therefore, to understand the government deficit it is necessary to know the state of the economy. The cyclically-adjusted deficit is calculated. This is the deficit that would exist given existing spending and tax if the economy were at equilibrium.  The cyclically-adjusted deficit shows if fiscal policy is contractionary or expansionary. However, this depends on being able to estimate the level of cyclically-adjusted output. If the cyclically-adjusted deficit is equal to the budget deficit less the effect of automatic stabilisers, this is also the discretionary fiscal impulse. 
+
+$$G(y_e) - T(y_e) \equiv [G(y_t) - T(y_t)] - \alpha(y_e - y_t)$$
+
+Where $\alpha$ is a constant and $\alpha(y_e - y_t)$ captures the impact of the automatic stabilisers. 
+
+##Debt Dynamics
+In nominal terms the governments budget identity in each period is
+
+$$G_t + i_t B_{t-1} \equiv T_t + \Delta B_t + \Delta M_t$$
+
+Where B is the outstanding debt and figures are in nominal terms. 
+
+There is some attention on **Modern Monetary Theory** at present. This idea suggests that a government with monetary authority only needs to worry about the inflationary consequences of the budget deficit and debt.  
+
+$$G + iB_{t -1} = T + \Delta B$$
+
+It is necessary to distinguish between the government deficit $(G + iB -T)$ and the primary deficit $(G - T)$.  It is necessary to note that the stock of bonds (held by the public) is equal to outstanding debt. If the government debt relative to national income is what is important, 
+
+$$debt ratio \equiv b_t = \frac{B_{t-1}}{Py}$$
+
+So $Py$ is nominal national income. If we divide through the budget identity by $Py$ we get the budget deficit to GDP ratio 
+
+$$\frac{\Delta B}{Py} = \frac{G - T}{Py} + \frac{i B_{t-1}}{Py}  = d + ib$$
+
+Where the ratio of primary deficit to national income is 
+
+$$d = \frac{G - T}{Py}$$
+
+From the debt ratio
+
+$$B \equiv bPy$$
+
+Use the approximation that 
+
+$$\Delta B \approx Py\delta b + by \Delta P + bP \Delta y$$
+
+Divide each side by py to get 
+
+$$\frac{\Delta B}{Py} = \frac{b \Delta Py}{Py} = b\pi + by_g + \Delta b$$
+
+Where y_g is the growth of GDP, using the Fisher equation
+
+$$\Delta b = d + (i - \pi - y_g)b = d + (r - y_g)b$$
+
+Therefore, the growth of the debt to GDP ratio is dependent upon: the primary deficit ratio, the real interest rate, the growth of real GDP and the existing government debt to GDP ratio. If the real interest rate is above the growth rate, the debt to GDP ratio will be rising unless d is negative; if the real interest rate is beow the growth rate, the growth of the economy is sufficient to reduce the impact of interest rates on the burden. The realisation that Eurozone bonds did contain risk is non-zero was one of the factors that caused a risk premium to be added to Eurozone assets. If 
+
+$$r = r^{risk free} + \rho$$
+
+The path of debt default becomes 
+
+$$\Delta b = d + (r^{risk free} + \rho - y_g)b$$
+
+This will clearly worsen the debt dynamics. 
+
+There is a risk of a negative feedback loop where the fear of government default increases the risk premium and makes the default more likely. Therefore, interest rates and growth rates may not be exogenous. 
+
+To discuss the sustainability of a fiscal programme, start from the view that for sustainability, the debt burden must not be increasing. 
+
+$$\Delta b = d + (r - y_g)b$$
+
+$$b \leq \frac{-d}{i(r - y_g)}$$
+
+If we think about long-term values of these components we can discuss sustainability. 
+
+

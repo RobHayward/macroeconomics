@@ -59,7 +59,7 @@ where $\mu$ is the mark up.
 Two side of depreciation. 
 A real depreciation will boost competitiveness and help export industries; it will also mean that the cost of import volumes increase.  These two effects pull in different directions. The Marshall Learner conditions are that if the elasticity of demand for exports and imports excceds one, there will be an improvement in the trade balance from a real depreciation. Include the real exchange rate in the net export function. The nominal value of exports would be equal to the price index of exports multiplied by the volume.  The volume of exports is the share $(\sigma)$ of exports in world production.
 
-$$X_nom = P_x \left ( \frac{P^* e}{P} \right ) Y^*$$
+$$X_{nom} = P_x \left ( \frac{P^* e}{P} \right ) Y^*$$
 
 where $Y^*$ is world output and $\sigma$ depends on competitiveness.  To get the export index in real terms, divide each side by the domestic price level. 
 
