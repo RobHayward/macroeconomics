@@ -1,4 +1,4 @@
-# The Global Financial Crisis
+# The Global Financial Crisis {#GFC}
 In the 1990s and into the new century, there was a sense of complacency as the new macroeconomic regime seemed to have removed the threat of inflationary and unemployment shocks. Household debt rose by 8 percentage points between 1988 and 1998, and 29 percentage points between 1998 and 2008; financial debt rose by 29 percentage points 1988 and 1998 and 48 between 1998 and 2008. Central banks did little to prevent the build up in debt.  US Fed Chairman Greenspan promoted a view that the central bank should concentrate on moping up the aftermath with low interest rates to maintain a dynamic economy. The focus was on inflation.  However, the BIS pointed out the there are period when inflation can be low but rising debt can cause risk of disruption [@BorioWhite].
 
 ## Pre-crisis system: incentives, instruments and actors
