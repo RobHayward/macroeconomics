@@ -1,47 +1,43 @@
 # Growth, Development and Innovation
-The capitalist explosion of economic growth is a new phenomena. The upswing began around 1750 in the UK. A natural experiment happened with economic planning in the Soviet Union and other countries.  Here there is no incentive to innovate or create new products. The switch from planning to capitalism was painful, showing institutions and history is important. Planning was very useful for initial development but not for the later stages. There are three broad explanation for what causes different regions to develop at different rates: geography, culture and institutions.  
+
+By the end of this chapter you should understand the following
+
+* The causes of growth and the role of capitalism
+
+* The connection between the New Keynesian model and long-run growth
+
+* Mathematical tools for understanding long-run growth
+
+* The Solow model and its augmented versions
+
+* Economic convergence: theory and evidence
+
+----------------
+
+![Cranes](./Figures/Growth/cranes.jpeg)
+
+---------------------
+The capitalist explosion of economic growth is a new phenomena. The upswing began around 1750 in the UK. A natural experiment happened with economic planning in the Soviet Union and other countries.  It is possible to compare the perforamnce of market-based and command economies.  Though the command economies of the Soviet Union and Eastern European nations industrialised quickly and *converged* towards developed countries, this convergence soon ended and the improvement in per capital GDP stalled.  It is argued that in a system without private property, there there is no incentive to innovate or create new products. After the collapse of the 'communisted' regimes, the switch from planning to capitalism was painful, showing institutions and history are important. Planning was very useful for initial development but not for the later stages. There are three broad explanation for what causes different regions to develop at different rates: geography, culture and institutions.  
 
 Assessing the long-run growth performance is the equivalent of saying that we are studying the rate of change of the equilibrium or potential level of GDP.  We are assuming that all savings are automatically invested so that we can abstract from the fluctuations. Savings have different effect in different models.  In the short-run there is a paradox of thrift; in the medium term the economy returns to equilibrium after increased savings because the central bank cuts interest rates in response to the risk that inflation will fall.  
-
-## The Solow growth model
-The Solow-Swan model was an extension of the Harrod-Domar model.  It predicts that economies converge to their steady state in the long run and that permanent growth is only achieved by technological progress. Convergence is implied.  Assuming no growth in labour or technological progress, eventually the last capital will only be sufficient to cover depreciation.  At that point the economy will cease to grow. If the labour force grows, the economy converges to a steady start of growth where GDP per capital is constant. If there is technological progress, the per-capital growth will be equal to the rate of technological progress. 
-
-Effective labour AL with A as labour-augmenting technology or knowledge. 
-
-if labour and technology grow at n and g respectively, 
-
-$$L_t = L(0)e^{nt}$$
-$$A_t = A(0)e^{gt}$$
-
-Effective labour $A_t$ $L_t$ grows at $n + g$. 
-
-
-$$\dot{K_t} sY_t - \delta K_t$$
-
-the growth of capital over time is equal to output that is not consumed or worn out. 
-
-k is the capital stock per unit of effective labour. 
-
-$$\dot{k_t} = sk_t^\alpha = (n + g + \delta)k_t$$
-
-$sk_t^\alpha = sy_t$ is the investment per unit of effective labour; $(n + g + \delta)_t$ is the break-even investment: the amount of investment that must be made to prevent k falling. This implies that $k_t$ convergence to $k^*$ where 
-
-$$sk_t^\alpha = (n + g + \delta)k_t $$
-
-means that there is no increase or decrease in capital intensity. 
-
-The Solow Model
+## The long rund and the short run
 At the heart of the Solow model is a production function with diminishing returns to capital. The shape of the production function $F(K)$ is concave. There is depreciation that requires some savings to replace the depreciated capital $(\delta K)$. The savings rate (between 0 and 1) means that the effect of savings is the same shape as the production function. If there is an increase in savings, this will add to the capital stock, increase labour productivity and increase output.  Once the economy gets back to the point where savings equal depreciation, there is no further increase in the capital stock or the economy. This can be linked to the three equation model because the increase in savings will temporarily leave the economy below is potential.  The central bank can cut interest rates to encourage investment. The slope of the production function is the marginal product of capital as it shows the change in output for a change in capital. The marginal product is equal to the real interest rate plus the rate of depreciation.  This is consistent with the lower interest rate that the central bank sets. 
 
 $$r_z = \delta = MPK_z$$
 
 Investment rises in response to the rate cut and the economy moves to a new equilibrium at higher output and more capital intense method of production. 
 
-The production function for a one-good economy (corn or something else that can be consumed or used for investment) with 
+
+## The Solow growth model
+The **Solow-Swan model** was an extension of the Harrod-Domar model.  It predicts that economies converge to their steady state in the long run and that permanent growth is only achieved by technological progress. Assuming no growth in labour or technological progress, eventually the last capital will only be sufficient to cover depreciation.  At that point the economy will cease to grow. If the labour force grows, the economy converges to a steady start of growth where GDP per capital is constant. If there is technological progress, the per-capital growth will be equal to the rate of technological progress. 
+
+![Swan-Solow model [@carlinsoskice]](./Figures/Growth/Solow.jpg)
+
+Effective labour AL with A as labour-augmenting tecThe production function for a one-good economy (corn or something else that can be consumed or used for investment) with 
 
 $$Y = AF(KN)$$
 
-where production is smooth and continuous and the marginal rates are positive and diminishing. All variables are real. There are constant returns to scale and the Cobb-Douglas function is used, 
+where production is smooth and continuous and the marginal rates are positive and diminishing. All variables are real. There are constant returns to scale and the **Cobb-Douglas function** is used, 
 
 $$Y = AK^\alpha N^{1-\alpha}$$
 
@@ -51,7 +47,7 @@ $$y = ak$$
 
 A is total factor productivity and $\alpha$ is capital share of income. Labour share of income is $1 - \alpha$. Therefore, output per worker will depend on capital per worker and total factor productivity. A will capture the technology, the efficiency with which technology and capital are used and the management quality. This function is concave, reflecting diminishing returns to capital. The average product of capital $y/k$ is a line from the origin and the marginal product of capital is the slope of the function or
 
-$$MPK = \frac{d(Ak^\alpha}{dk} = Aak^{\alpha-1}$$
+$$MPK = \frac{d(Ak^\alpha)}{dk} = Aak^{\alpha-1}$$
 
 If the labour force grows at a constant rate n and we work in continuous time, 
 
@@ -93,7 +89,9 @@ This is the Harrod-Domar formula. Where the steady state is determined by exogen
 
 In the steady state: Output and capital grow at the same rate as the exogenously given rate of labour growth. The capital-output ratio is higher the higher the savings rate and the lower the labour growth rate and depreciation. 
 
-Figure 8.8 shows the steady state where the growth rates of capital, labour and output are equal. This can tell us about the growth of output whereas the more standard Solow diagram in 8.9 shows the growth of output per capita. Page 278 also has the derivation of the Fundamental Solow equation of motion that shows how capital per worker varies over time. 
+![Swan-Solow Steady State [@carlinsoskice]](./Figures/Growth/steadystate.jpg)
+
+Figure 8.2 shows the steady state where the growth rates of capital, labour and output are equal. This can tell us about the growth of output whereas the more standard Solow diagram in 8.1 shows the growth of output per capita. 
 
 $$k = sAk^{\alpha} - (n - \delta)k$$
 
@@ -109,6 +107,8 @@ $$k^* = \left ( \frac{As}{\delta + n} \right )^{\frac{\alpha}{1 - \alpha}}$$
 steady state capital ratio
 
 $$y^* = A(k^*)^\alpha = A^{\frac{1}{1 - \alpha}} = \left ( \frac{s}{\delta + n} \right ) ^{\frac{\alpha}{1 - \alpha}}$$ 
+
+![Savings and growth [@carlinsoskice]](./Figures/Growth/Solow2.jpg)
 
 With the Solow model, the higher the savings the higher the level of GDP.  However, consumption is a better measure of welfare (see China and the calls for more consumption).  The level of savings that will maximise consumption is called 'The Golden Rule savings rate'. Figure 8.11 shows that consumption is maximised at the Golden Rule savings rate consistent with $k_GR^*$ which is tangential to the production function with the same slope as $(n + \delta)k$. With competitive markets the slope of the  production function, which is the marginal product of capital, has the slope of $r + \delta$.  The marginal product of capital has to cover the rental cost plus depreciation. Consumption is maximised when $r + \delta = n + \delta$. So $r = n$.  Total savings equal total profits and total wages are equal to total consumption. Therefore, with a Cobb Douglas production function, the savings rate is equal to $\alpha$ or capital's share of output. 
 
@@ -140,6 +140,10 @@ $$g_k = g_y = 0$$
 In the Solow model, an increase in savings will lead to an increase in the capital-labour ratio and due to the diminishing marginal returns, this will increase output per capita.  However, there is little evidence that absolute convergence has happened systematically. 
 
 ## Convergence
+The basic Swan-Solow model suggests that countries should converge towards the same level of economic activity.   If there is low output and capital per person, the relatively high prodcutvity of capital should attract investment, capital deepening and high levels of economic growth.  Meanwhile, countries with relatively high capital per person will gowth more slowly. There is a **testable hypothesis* that growth of countries with low per-capital GDP should be higher than that of countries with high per-capital GDP. There is mixed evidence.  
+
+![Convergence [@carlionsoskice]](./Figures/Growth/convergence.jpg)
+
 Conditional convergence suggests that countries of similar GDP per capital will tend to converge.  This means that rich and poor have different production functions. There is much more evidence in favour of conditional convergence.  Figure 8.15b shows the convergence of the OECD countries in the Golden Age of 1950 to 1973.  [@MankiwRomerWeil] test this across a broader range of countries and find evidence of convergence but at a slower pace than would be expected by by theory. 
 
 ###Human capital
@@ -150,6 +154,8 @@ $$Y = AK^\alpha (hN)^{1 - \alpha}$$
 The steady state output per head is now the same as before but A is replaced with $h^{1 - /alpha}A$
 
 [@MankiwRomerWeil] test a version of this model and find that it provides a much better explanation for the differences in countries. They find strong evidence for conditional convergence. 
+
+![Conditional convergence [@carlinsoskice]](./Figures/Growth/convergence2.jpg)
 
 ###Technological progress
 US growth in output per person has been in the region of 2.5% since 1870. The Solow growth model does not pin down technological progress but it shows the way that progress must evolve to be consistent with balanced or steady growth. In this form technological progress must not use up any resources in the economy (because these are used for capital accumulation and depreciation) and must be used to enhance labour productivity. This is called Harrod-neutral or labour-augmenting technological progress. It is usually described as a steady process that increases output per worker by a particular percentage (x) per year. The Cobb-Douglas function becomes
@@ -234,5 +240,5 @@ How can this be used to create higher steady state growth? Either an increase in
 
 Aghion and Howitt model innovation and new higher quality products. It is suggested that too much competition can stifle innovation as there is less change to take advantage. However, Schumpeter also stressed the importance of competition in spurring innovation. This suggests a inverse=U shaped relationship between competition and innovation. The details of the model suggest that there are three sectors: at the technological frontier the return from innovation are really high, here more innovation boosts innovation; just behind the innovation frontier, the scope for innovation is less and more competition means less innovation as it is unlikely that this will allow sufficient scope to escape the monopoly pricing; at the lowest level there is no inventive to innovate but there is automatic spill-over from the other sector. Aghion find an inverse-U shaped relationship between the cost-price spread and the level of patents (Aghion et al. 2005). Another study (Aghion et al. 2009) suggests that increased competition (from overseas companies in this case) will increase patents at frontier firms but will decrease innovation amongst firms just below the innovation frontier. 
 
-The Schumpeterian model also emphasises the link between business fluctuations and long-term investment. There seems to be a link between business fluctuations and innovation. Some evidence suggests that 20% of innovation is about the entrance of new firm to the market. Other studies suggest that the entrenchment of existing firms in the planned economy system was one reason for the lack of innovation and dynamism (references on page 301).  There is also an additional argument in favour of intervention to stabilise the economy: credit constraints in the downturn can reduce the amount of innovation inducing R&D. ASIDE: there is some evidence of this from recent assessment of the port-GFC productivity slowdown in developed economies. 
+The Schumpeterian model also emphasises the link between business fluctuations and long-term investment. There seems to be a link between business fluctuations and innovation. Some evidence suggests that 20% of innovation is about the entrance of new firm to the market. Other studies suggest that the entrenchment of existing firms in the planned economy system was one reason for the lack of innovation and dynamism.  There is also an additional argument in favour of intervention to stabilise the economy: credit constraints in the downturn can reduce the amount of innovation inducing R&D. ASIDE: there is some evidence of this from recent assessment of the port-GFC productivity slowdown in developed economies. 
 

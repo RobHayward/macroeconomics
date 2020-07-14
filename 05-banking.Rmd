@@ -1,4 +1,4 @@
-# Money, Banking and the Financial Sector
+#Money, Banking and the Financial Sector
 At the end of this chapter you should understand
 
 * How the financial system is represented in the economy
@@ -9,7 +9,6 @@ At the end of this chapter you should understand
 
 * Bank liquidity, solvency and the balance sheet
 
-------
 ![Bank](./Figures/Money/insurance.jpeg)
 
 This chapter is about the role of money and banking in the macro economy. This is a subject that has been ignored in some macroeconomic models.  Models such as the Real Business Cycle assume that the financial system operates smoothly without any frictions. If the system is working well, economic agents can carry out their planned expenditure using money and credit. However, the Global Financial Crisis (GFC) made very clear the disruption that may be felt when the financial system is not working well.
