@@ -142,7 +142,7 @@ In the Solow model, an increase in savings will lead to an increase in the capit
 ## Convergence
 The basic Swan-Solow model suggests that countries should converge towards the same level of economic activity.   If there is low output and capital per person, the relatively high prodcutvity of capital should attract investment, capital deepening and high levels of economic growth.  Meanwhile, countries with relatively high capital per person will gowth more slowly. There is a **testable hypothesis* that growth of countries with low per-capital GDP should be higher than that of countries with high per-capital GDP. There is mixed evidence.  
 
-![Convergence [@carlionsoskice]](./Figures/Growth/convergence.jpg)
+![Convergence [@carlinsoskice]](./Figures/Growth/convergence.jpg)
 
 Conditional convergence suggests that countries of similar GDP per capital will tend to converge.  This means that rich and poor have different production functions. There is much more evidence in favour of conditional convergence.  Figure 8.15b shows the convergence of the OECD countries in the Golden Age of 1950 to 1973.  [@MankiwRomerWeil] test this across a broader range of countries and find evidence of convergence but at a slower pace than would be expected by by theory. 
 
