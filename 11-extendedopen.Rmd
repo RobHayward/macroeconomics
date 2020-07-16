@@ -1,13 +1,23 @@
 # Extending the open economy model
 
+By the end of this chapter you should understand the following: 
+
+* The role of policy is oil and other supply shocks
+
+* The intertemporal balance of payments model
+
+* The source of sustained financial imbalances
+
+
+
 There are two major issues to be explored with the Medium Run model: changes in import prices; international imbalances. 
 
 ## Supply shocks
-A supply shock is defined as a terms of trade shock that changes the relative price of manufacturing goods and raw materials.  This shock will tend to affect the AD curve, the ERU curve and the BT curve, shifting them to the left. A rise in the price of oil means that the relative price of oil to manufacturing goods become more expensive. 
+A supply shock is defined as a **terms of trade shock** that changes the relative price of manufacturing goods and raw materials.  This shock will tend to affect the AD curve, the ERU curve and the BT curve, shifting them to the left. For example, a rise in the price of oil means that the relative price of oil to manufacturing goods become more expensive. 
 
 $$\tau = \frac{P^*_{rm}}{P^*_{mf}}$$
 
-The price setting curve is defined for a given real exchange rate 
+The price setting curve is defined for a given real exchange rate and $P^*_{rm}$ is defined as the overseas price of raw materials and $P^*_{mf}$ is defined as the overseas price of manufactured goods. 
 
 $$Q = \frac{p^*_{mf}e}{P_{mf}}$$
 
@@ -23,7 +33,7 @@ And v is the unit material requirement. Therefore,
 
 $$W^{PS} = \frac{(1 - \mu)\lambda}{1 + v\tau Q}$$
 
-So any rise in $\tau$ reduces the real wage (though this could be offset by a fall in v. 
+Where $\mu$ is the price mark-up over unit labour costs, $\lambda$ is productivity and $v$ is the share of raw materials in production.  So any rise in $\tau$ reduces the real wage (though this could be offset by a fall in v). 
 
 Given this framework, a rise in oil has three effects: that on AD, that on the trade balance and that on supply (ERU). 
 
@@ -49,9 +59,12 @@ Oil is an important part of the household consumption bundle and a key input int
 
 ![labour market and import prices [@carlinsoskice]](./Figures/OpenImbalance/SupplyShock2.jpg)
 
-In the 1970s, the policy response to the oil shock was to focus on the demand shock and ignore the supply shock. As a result there was upward pressure on inflation and rising unemployment. If there is a gap between the WS and PS curves, inflation is rising. Policy-makers attempt to offset the demand shock by using policy to push the AD curve back to the original position. If the economy gets back to a position of stable inflation, this is at the cost of higher unemployment and a significant deterioration in the trade position. The government's fiscal position will also have been damaged in order to boost AD. Using monetary policy or exchange rate depreciation has the same effect of attempting to hold the economy above the equilibrium at which inflation will remain constant. 
+## Oil shocks and policy responses
+In the 1970s, the policy response to the oil shock was to focus on the demand shock and ignore the supply shock. As a result there was upward pressure on inflation and rising unemployment. There is a gap between the WS and PS curves, inflation is rising. Policy-makers attempt to offset the demand shock by using policy to push the AD curve back to the original position. If the economy gets back to a position of stable inflation, this is at the cost of higher unemployment and a significant deterioration in the trade position. The government's fiscal position will also have been damaged in order to boost AD. Using monetary policy or exchange rate depreciation has the same effect of attempting to hold the economy above the equilibrium at which inflation will remain constant. 
 
-A better response to this type of shock would be a supply side measure, such as a wage accord. This could shift the WS curve downwards and provide a partial offset to the movement of the PS curve. If the wage accord is complete, the ERU curve will not shift. However, this policy is difficult to achieve as the combination of wage restraint and rising oil prices means that there is a fall in living standards. What was different in the 2000 to 2005 period when oil price gains did not lead to stagflation?  Labour markets appear to have changed and workers were unable to seek compensation for the increase in oil pries.  Real wages tended to fall.  Banks were much more willing to lend to compensate for any decline in real wages as a result of the oil price rise. This meant that the ERU and AD curves moved a lot less in this period. 
+A better response to this type of shock would be a supply side measures, such as a wage accord. This could shift the WS curve downwards and provide a partial offset to the movement of the PS curve. If the wage accord is complete, the ERU curve will not shift. However, this policy is difficult to achieve as the combination of wage restraint and rising oil prices means that there is a fall in living standards. It might be presented as an exchange of employment for wage restraint.  This sort of tripartite agreement between government, unions and employers is more likely in the German or Scandinavian labour model.  
+
+The third oil shock in the 2000 to 2005 period when oil price gains did not lead to stagflation?  Policy-makers were more away of supply=shocks than they were in 1973. Labour markets appear to have changed and workers were unable to seek compensation for the increase in oil pries.  Confrontational unions had become less important. Real wages tended to fall.  Banks were much more willing to lend to compensate for any decline in real wages as a result of the oil price rise. As we know, people in countries like the UK, the US and Spain were able to borrow against the value of their houses to maintain consumption in the face of falling real wages. This meant that the ERU and AD curves moved a lot less in this period. 
 
 ![Supply shock and the medium-run model [@carlinsoskice]](./Figures/OpenImbalance/SupplyShock.jpg)
 
@@ -77,13 +90,13 @@ The inter-temporal current account (ICA) is a forward-looking version. The cumul
 
 $$CA = \sum_{t=1}^{\infty} \frac{1}{1 + r} \gamma \Delta \tilde{y}_{t+i}$$
 
-Current account positions lead to fluctuations in NFA. Countries smooth consumption due to fluctuations in expected future income. For example, a country that finds a new natural resource should experience an increase in current consumption and investment, a current account deficit and an appreciation of the real exchange rate. Consumption is smoothed, there is borrowing from abroad (current account deficit) and the exchange rate rises to the rate that will balance the current account in the long run. A current account deficit may also be caused by countries finding that there are better investment opportunities abroad. High savings countries in Asia may be examples of this. 
+Current account positions lead to fluctuations in NFA. This is the equivalent of households becoming more indebted in the standard model. Countries smooth consumption due to fluctuations in expected future income. For example, a country that finds a new natural resource should experience an increase in current consumption and investment, a current account deficit and an appreciation of the real exchange rate. Consumption is smoothed, there is borrowing from abroad (current account deficit) and the exchange rate rises to the rate that will balance the current account in the long run. A current account deficit may also be caused by countries finding that there are better investment opportunities abroad. High savings countries in Asia may be examples of this. 
 
 ![Balance of Payments and Consumption Smoothing [@carlinsoskice]](./Figures/OpenImbalance/ImbConsSmooth.jpg)
 
 
 ##Sectoral Financial Balances
-This is used to discuss global imbalances. The private sector balance and the public sector balance must be equal to the trade position (assuming away net earnings from abroad for now). 
+One way to look at the current account is as a component of overall **sectoral financial balances**.  This can be used to discuss national or global imbalances. It is possible to consider what would have to change in order for the surplus or deficit to be eliminated. The private sector balance and the public sector balance must be equal to the trade position (assuming away net earnings from abroad for now). 
 
 $$(S - I(r^*)) + (T - G) = X - M$$
 
@@ -91,12 +104,10 @@ Or
 
 $$(s_1y^{dis} - c_0 - I(r^*) + (ty - G) = X(Q, y^*) - QM(Q, y)$$
 
-These sectoral balances provide a good way to assess long-run macroeconomic developments. However, this is a goods market equilibrium so to analyse a response to an economic shock,  it is necessary to first to find out the goods market reaction to that shock. A fiscal expansion will shift the AD curve this will increase output and will lead to an increase in the real exchange rate as prices rise in response to the imbalances in the labour market. There will be a trade deficit due to higher growth sucking in imports and the effect of the real appreciation on exports. The increase in government spending will increase output and tax revenues but not by sufficient amount to prevent a budget deficit. ASIDE: not sure that I can show this. The new equilibrium is partly financed by the private sector and from abroad. 
-
+## Global imbalances and the GFC
 The build up to the GFC was characterised by large scale global imbalances. [@caballero2008] modelled a world of three groups: the first is fast growing with well developed financial systems; the second is slower-growing and less developed financial systems; finally, fast growing a undeveloped.  The group of emerging economies could not find sufficient domestic assets to satisfy their savings needs, these are supplies by the first group.  The first group is the US (with the UK and Australia), the second is Germany and Japan and Korea, the final group is China and other developing countries, including at times the major oil exporters. 
 
 ![Two Country Model [@carlinsoskice]](./Figures/OpenImbalance/TwoCountryModel.jpg)
-
 
 A two block model seeks to explain how persistent imbalances can exist in the medium term. To focus on the interaction of the two blocks, there is an abstraction away from the downward sloping ERU curve. It is assumed that there are two blocks: A represents the current account deficit countries and B are the current account surplus countries. They have inflation-targeting central banks and there is a set interest rate $(r = r^*)$ and real exchange rate $(q = \bar{q})$. Assume that the IS coefficients on real interest rates and the real exchange rate are the same for A and B and equal to one. 
 
@@ -122,7 +133,7 @@ $$BT^A = y_e - (A^A - i^*) = \bar{q} < 0 $$
 
 $$BR^B = y_e - A^B - i^*) = \bar{q} > 0$$
 
-The real exchange rate ensures that demand on aggregate between the two blocks is appropriate. Note that the real interest rate (i^*) adjusts to ensure that demand is consistent with output. If demand is block a is $y^{da}$ 
+The real exchange rate ensures that demand on aggregate between the two blocks is appropriate. Note that the real interest rate $(i^*)$ adjusts to ensure that demand is consistent with output. If demand is block a is $y^{da}$ 
 
 $$y^{da} + y^{db} = 2y_e$$
 
