@@ -9,7 +9,7 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: robhayward/macroeconomics
-description: "This is our macroeconomics textbook"
+description: "These are our macroeconomic notes"
 ---
 
 # Introduction {-}
@@ -20,7 +20,7 @@ There are three broad sections:
 
 1.  **The New Keynesian Model** that brings together aggregate demand, supply and the central bank policy response. 
 
-2. **The financail syste and the global financial crisis** that discusses frictions and the importance of institutions and history for macroeconomics. 
+2. **The financial system and the global financial crisis** that discusses frictions and the importance of institutions and history for macroeconomics. 
 
 3. **The open economy and other extensions**.   
 

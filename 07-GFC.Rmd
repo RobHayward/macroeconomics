@@ -37,7 +37,7 @@ The policy response to the GFC was build on some lessons from the Great Depressi
 
 ![Comparison of GFC and the Great Depression [@carlinsoskice]](./Figures/GFC/GFCGD.png)
 
-However, the GFC showed the limits of monetary policy. The **zero-bound** suggests that it is difficult to reduce interest rates below zero and that reducing real interest rates is very difficult in times of deflation.  As a result, central banks tried new monetary methods such as: 
+However, the GFC showed the limits of monetary policy. The **zero-bound** suggests that it is difficult to reduce interest rates below zero and that reducing real interest rates is difficult in times of deflation.  As a result, central banks tried new monetary methods such as: 
 
 * Quantitative easing (focusing on the quantity rather than the price of money)
 

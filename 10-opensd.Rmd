@@ -10,7 +10,7 @@ By the end of this chapter you should understand:
 
 * Analysing shocks in the **AD-ERU** medium-run framework
 
-Opening the economy to the rest of the world can be useful for analysing some problems.  This will depend on the question and the country.  Different countries have different levels of openness.  Trade openness is measured as the sum of exports and imports relative to GDP. UK openness remained stable at about 40% of GDP since the 1970s.  However, China and Germany have openness of about 60% and 70% respectively. Financial globalisation is measured as gross external assets plus liabilities as a percentage of GDP. The **Balance of Payments** measures the transactions between the home country and those abroad. The BOP is made up of the trade balance, the current account, the capital and financial accounts. 
+Opening the economy to the rest of the world can be useful for analysing some problems.  This will depend on the question and the country.  Different countries have different levels of openness.  Trade openness is measured as the sum of exports and imports relative to GDP. UK openness remained stable at about 40% of GDP since the 1970s.  The US has risen from about 20\% in the 1980s to just less than 30\% now.  However, China and Germany have openness of about 60% and 70% respectively. Financial globalisation is measured as gross external assets plus liabilities as a percentage of GDP. The **Balance of Payments** measures the transactions between the home country and those abroad. The BOP is made up of the trade balance, the current account, the capital and financial accounts. 
 
 Trade is $BT = X - M$.  Current is trade plus net interest and profit receipts. It is useful to separate the private and public parts of the financial account. 
 
@@ -50,7 +50,13 @@ $$y = \frac{1}{1 - c_1(1 - t) + m}(c_0 + I(r) + G + \bar{X} )$$
 The open economy multiplier is lower because of the marginal propensity to import (m). 
 
 ## Supply side and price setting
-It is assumed that imperfectly competitive firms set prices on the basis of home costs using the price setting rule for the home economy.  However, there are two alternative pricing methods for exports: firms also set export prices in the same way as they set home prices; prices are set internationally. The first is **cost pricing**, the second is **world pricing**. See how things change in different pricing regimes when there is a rise in domestic costs. In the first case, export prices rise and there is a fall in competitiveness (Q rises as P rises). In the second case, there is no loss of competitiveness but there is a reduction in profit margins and firms find it harder to access capital and to improve their performance with R&D. Non-price competitiveness is reduced. As such, it may be better to define the real exchange rate based on unit labour costs.  
+It is assumed that imperfectly competitive firms set prices on the basis of home costs using the price setting rule for the home economy.  However, there are three alternative pricing methods for exports: 
+
+* firms set export prices in the same way as they set home prices; 
+
+* prices are set internationally. 
+
+The first is **cost pricing**, the second is **world pricing**. See how things change in different pricing regimes when there is a rise in domestic costs. In the first case, export prices rise and there is a fall in competitiveness (Q rises as P rises). In the second case, there is no loss of competitiveness but there is a reduction in profit margins and firms find it harder to access capital and to improve their performance with R&D.  Non-price competitiveness is reduced and the end result may be about the same. As such, it may be better to define the real exchange rate based on unit labour costs.  
 
 $$RULC = \frac{UCL^* e}{UCL}$$
 

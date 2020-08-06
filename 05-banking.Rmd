@@ -11,7 +11,7 @@ At the end of this chapter you should understand
 
 ![Bank](./Figures/Money/insurance.jpeg)
 
-This chapter is about the role of money and banking in the macro economy. This is a subject that has been ignored in some macroeconomic models.  Models such as the Real Business Cycle assume that the financial system operates smoothly without any frictions. If the system is working well, economic agents can carry out their planned expenditure using money and credit. However, the Global Financial Crisis (GFC) made very clear the disruption that may be felt when the financial system is not working well.
+This chapter is about the role of money and banking in the macro economy. This subject has been ignored in some macroeconomic models.  Models such as the Real Business Cycle assume that the financial system operates smoothly without any frictions. If the system is working well, economic agents can carry out their planned expenditure using money and credit. However, the Global Financial Crisis (GFC) made clear the disruption that may be felt when the financial system is not working well.
 
 There are two new features introduced to the model when we look more closely at the financial system: 
 
