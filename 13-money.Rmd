@@ -95,6 +95,11 @@ The aftermath of the GFC has called into question the monetary policy framework 
 
 There is also an awareness of the limitations of monetary policy under the zero-bound and of the way that government financial may swiftly deteriorate if they have been flattered by excessive taxation that is drawn from the financial industry during the financial acceleration phase. If this has been the case, government finances will swiftly deteriorate as the profitability of the financial sector is affected by the crisis. 
 
+## Fed policy change
+On the 27 August 2020 the US Federal Reserve completed its review of its monetary framework with the announcement of changes that would be implemented.  You can read [Fed Chair Powell's statement on policy changes](https://www.federalreserve.gov/newsevents/speech/powell20200827a.htm).  The three major adjustments were:
 
+1. Rather than keeping inflation at 2.0\%, the aim is to target *average inflation* of 2.0\%.  This means that if inflation is below target (as it has been for a number of years) it is acceptable to have inflation above target as a compensation. This means that the US central bank is less likely to react to indications that inflation is moving above target. 
+
+2. The assessment of policy will be driven by **assessments of shortfalls of employment from its maximum level** rather than **deviations** from its maximum level.  This reflects the fact that high levels of employment can be achieved without causing inflation.  This is more consistent with the Friedman *Plucking Model* of employment.  Here is a review of the [Plucking model](https://publications.banque-france.fr/en/plucking-model-business-cycles).  This is slightly different from the labour market model that we have been using. 
  
-
+3. The employment mandate now says that maximum employment is a broad and inclusive goal.  This recognises the fact that some parts of US society have not fully benefited from the job creation that has taken place in recent years. 
